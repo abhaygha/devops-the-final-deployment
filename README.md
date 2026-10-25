@@ -1,6 +1,6 @@
 # DevOps: The Final Deployment 🎬
 
-Original 25-minute Hinglish 3D-style workplace comedy for YouTube.
+An original 25-minute 3D animated Hinglish workplace comedy for YouTube about DevOps, Kubernetes, Terraform, and production disasters.
 
 **Status:** Preproduction. **Budget cap:** AED 1,000. **Aspect:** 16:9. **Target:** 1920x1080, 24 fps.
 
