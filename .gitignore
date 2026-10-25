@@ -1,0 +1,11 @@
+# Media exports and source footage (keep external backups)
+video/**/*.mp4
+video/**/*.mov
+audio/**/*.wav
+audio/**/*.mp3
+*.zip
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store

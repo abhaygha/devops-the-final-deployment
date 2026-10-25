@@ -1,0 +1,135 @@
+{
+  "title": "DevOps: The Final Deployment",
+  "fps": 24,
+  "width": 1920,
+  "height": 1080,
+  "runtime_seconds": 1500,
+  "scenes": [
+    {
+      "id": "scene-01",
+      "title": "Cold open: Production is on fire",
+      "start_seconds": 0,
+      "duration_seconds": 90,
+      "summary": "Red alarms; Chintu announces cloud cost savings because everything is gone.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-02",
+      "title": "Meet the DevOps legends",
+      "start_seconds": 90,
+      "duration_seconds": 90,
+      "summary": "Mockumentary introductions, ETA montage and tutorial jokes.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-03",
+      "title": "The impossible deployment promise",
+      "start_seconds": 180,
+      "duration_seconds": 120,
+      "summary": "Manager promises zero downtime and zero risk before lunch.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-04",
+      "title": "Chintu receives production access",
+      "start_seconds": 300,
+      "duration_seconds": 120,
+      "summary": "Read-only request mistakenly becomes cluster administrator.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-05",
+      "title": "The Kubernetes disaster",
+      "start_seconds": 420,
+      "duration_seconds": 120,
+      "summary": "Chintu deletes application pods; controllers recreate them but readiness fails.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-06",
+      "title": "Emergency bridge call",
+      "start_seconds": 540,
+      "duration_seconds": 120,
+      "summary": "Thirty-six attendees, mute confusion and embarrassing screen share.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-07",
+      "title": "The Senior investigates",
+      "start_seconds": 660,
+      "duration_seconds": 120,
+      "summary": "Senior traces service and ingress routing, discovers wrong backend.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-08",
+      "title": "The change approval circus",
+      "start_seconds": 780,
+      "duration_seconds": 120,
+      "summary": "Emergency CAB discussion and exaggerated bureaucracy.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-09",
+      "title": "The network blame game",
+      "start_seconds": 900,
+      "duration_seconds": 120,
+      "summary": "F5, gateway, ingress and service visualized as a packet maze.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-10",
+      "title": "ArgoCD strikes back",
+      "start_seconds": 1020,
+      "duration_seconds": 120,
+      "summary": "Manual hotfix reverts because Git desired state remains incorrect.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-11",
+      "title": "The Junior unexpected solution",
+      "start_seconds": 1140,
+      "duration_seconds": 120,
+      "summary": "Chintu identifies wrong readiness path; GitOps fix deployed.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-12",
+      "title": "Production restored",
+      "start_seconds": 1260,
+      "duration_seconds": 120,
+      "summary": "Green checks, celebration and manager takes credit.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-13",
+      "title": "The Terraform twist",
+      "start_seconds": 1380,
+      "duration_seconds": 60,
+      "summary": "Chintu reveals disaster recovery destroy plan was applied.",
+      "status": "planned",
+      "clips": []
+    },
+    {
+      "id": "scene-14",
+      "title": "Credits and mountain stinger",
+      "start_seconds": 1440,
+      "duration_seconds": 60,
+      "summary": "Senior receives a new message while resting in Himalayas.",
+      "status": "planned",
+      "clips": []
+    }
+  ]
+}
